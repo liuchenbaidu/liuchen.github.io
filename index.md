@@ -1,4 +1,5 @@
-## Welcome  Hello 大家好，我的andy.liu AC 在中国深圳 邮箱（email）:1316274420@qq.com
+## Welcome  Hello 大家好，我的andy.liu AC 在中国深圳 邮箱email:1316274420@qq.com
+我觉得信任是现有社会最大的成本， 用技术和产品解决信任问题，将成为最有价值的事情
 
 You can use the [my github web ](https://github.com/liuchenbaidu/) to know me.
 
