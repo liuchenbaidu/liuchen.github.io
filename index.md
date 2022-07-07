@@ -1,10 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/liuchenbaidu/liuchen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [my github web ](https://github.com/liuchenbaidu/) to know me.
 
-# 人生就是一个不断学习的过程
+# 生者为过客，死者为归人。天地一逆旅，同悲万古尘。----------李白
 
-人生就是一个不断学习的过程，通过学习来充实自己的头脑，让自己更有智慧的生活下去，去探索那未知领域的神秘，去享受成长带来的快乐和惬意。
+月兔空捣药，扶桑已成薪。白骨寂无言，青松岂知春。前后更叹息，浮荣何足珍？
+
+人生短暂，弥足珍贵，健康和快乐生活每一天，挑战自己最想要做的事情。
+Life is short and precious. Live a healthy and happy life every day and challenge what you want to do most
 
 ![](qrcode_for_gh_0d3e241c6f10_258.jpg)
 
